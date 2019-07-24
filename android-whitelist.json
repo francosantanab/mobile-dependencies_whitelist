@@ -272,7 +272,7 @@
         {
             "group": "com\\.mercadolibre\\.android\\.adjust",
             "name": "core",
-            "version": "mercadopago-1\\.\\+"
+            "version": "mercadopago-1\\.0\\.0"
         },
         {
             "group": "com\\.mercadolibre\\.android\\.matt",
