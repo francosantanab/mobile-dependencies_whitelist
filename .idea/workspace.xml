@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cca9b236-d10a-4638-89a0-cf984b0c9960" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-whitelist.json" beforeDir="false" afterPath="$PROJECT_DIR$/android-whitelist.json" afterDir="false" />
-    </list>
+    <list default="true" id="cca9b236-d10a-4638-89a0-cf984b0c9960" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -160,16 +157,15 @@
       <workItem from="1563901447650" duration="162000" />
       <workItem from="1563974393215" duration="1334000" />
       <workItem from="1564061073380" duration="564000" />
-      <workItem from="1564070380237" duration="43000" />
+      <workItem from="1564070380237" duration="312000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2378000" />
+    <option name="totallyTimeSpent" value="2647000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="825" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
