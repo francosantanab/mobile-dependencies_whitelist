@@ -544,7 +544,7 @@
         {
             "group": "com\\.mercadopago\\.android\\.moneytransfer",
             "name": "contacts",
-            "version": "5\\.\\+"
+            "version": "5\\.1\\.3"
         },
         {
             "group": "com\\.mercadopago\\.android\\.ml_esc_manager",
